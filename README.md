@@ -42,7 +42,6 @@ One last note: Donâ€™t expect perfection (from the models or from me), and donâ€
 ### Shoutouts
 
 - Project based on the Manning liveProject: _Simple AI Algorithms for Classification_
-- By Lena (Anca Ileana Ardelean), 2025
 
 #### License
 
