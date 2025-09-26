@@ -18,13 +18,13 @@ The pattern is pretty straightforward: First, try the method on two-dimensional 
 
 Here’s the route, with one notebook per leg of the journey:
 
-- K-Nearest Neighbors in 2D — `knn_2d-authors-solution.ipynb`
-- K-Nearest Neighbors for Digits — `knn_digits-authors-solution.ipynb`
-- K-Means in 2D — `k-means_2d-authors-solution.ipynb`
-- K-Means for Digits — `k-means_digits-authors-solution.ipynb`
-- Naïve Bayes in 2D — `naive_bayes_2d-authors-solution.ipynb`
-- Naïve Bayes for Digits — `naive_bayes_digits-authors-solution.ipynb`
-- Hierarchical Clustering in 2D — `hierarchical_clustering_2d-authors-solution.ipynb`
+- K-Nearest Neighbors in 2D — `knn_2d.ipynb`
+- K-Nearest Neighbors for Digits — `knn_digits.ipynb`
+- K-Means in 2D — `k-means_2d.ipynb`
+- K-Means for Digits — `k-means_digits.ipynb`
+- Naïve Bayes in 2D — `naive_bayes_2d.ipynb`
+- Naïve Bayes for Digits — `naive_bayes.ipynb`
+- Hierarchical Clustering in 2D — `hierarchical_clustering_2d.ipynb`
 
 ### How You Might Use This
 
