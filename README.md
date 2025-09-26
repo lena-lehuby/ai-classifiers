@@ -48,6 +48,4 @@ One last note: Donâ€™t expect perfection (from the models or from me), and donâ€
 
 See LICENSE file. This is mainly meant for learning and tinkering, not commercial use.
 
-***
 
-Let me know if you want this split by section, further tightened, or have a specific style in mind!
