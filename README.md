@@ -46,6 +46,6 @@ One last note: Donâ€™t expect perfection (from the models or from me), and donâ€
 
 #### License
 
-See LICENSE file. This is mainly meant for learning and tinkering, not commercial use.
+This is mainly meant for learning and tinkering, not commercial use.
 
 
